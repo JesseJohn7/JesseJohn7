@@ -1,5 +1,8 @@
 <h1 align="center">Hello, I'm Jesse John</h1>
-<h3 align="center">A Frontend developer from Nigeria</h3> 
+<h3 align="center">About Me</h3> 
+<hr>
+<h3>I'm a frontend developer who is passsionate about creating beautiful and fucntional web applications.My expertise lies in html,css,tailwindcss,javascript and react.</h3>
+<p>I have a strong understanding of frontend development principles and i've gained experiences building responsive and user friendly web pages,i love using react to create dynamic user interfaces and manage state and i have a talent for combining html and css to create visually appealing layouts.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessejohn7&label=Profile%20views&color=0e75b6&style=flat" alt="jessejohn7" /> </p>
 
