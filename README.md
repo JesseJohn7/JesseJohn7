@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Jesse John</h1>
-<h3 align="center">About Me</h3> 
+<h1 align="center">Hello, I'm Jesse John nice to meet you🖐</h1>
+<h3 align="center">About Me 🙂</h3> 
 <hr>
 <p>I'm a front-end developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS JavaScript and TypeScript.
 
