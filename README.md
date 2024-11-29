@@ -1,8 +1,15 @@
 <h1 align="center">Hello, I'm Jesse John</h1>
 <h3 align="center">About Me</h3> 
 <hr>
-<h3>I'm a frontend developer who is passsionate about creating beautiful and fucntional web applications.My expertise lies in html,css,tailwindcss,javascript and react.</h3>
-<p>I have a strong understanding of frontend development principles and i've gained experiences building responsive and user friendly web pages,i love using react to create dynamic user interfaces and manage state and i have a talent for combining html and css to create visually appealing layouts.</p>
+<p>I'm a front-end developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS JavaScript and TypeScript.
+
+I have a strong understanding of front-end development principles and have gained experience building responsive and user-friendly web pages. I love using React to create dynamic user interfaces and manage state, and I have a talent for combining HTML and CSS to create visually appealing layouts.
+
+I've worked on a variety of projects in the past, both small and large-scale. From start to finish, I bring my skills in using version control systems (such as Git) and my focus on writing clean, maintainable and well-documented code to every project.
+
+I'm a lifelong learner and love to stay up to date with the latest industry trends and best practices. Collaboration is key for me, and I enjoy working with others to find creative solutions to technical challenges.
+
+If you're looking for a front-end developer who brings passion, experience, and a love for HTML, CSS, Tailwind CSS JavaScript to the table, then I'm your guy! Let's work together and build something amazing!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessejohn7&label=Profile%20views&color=0e75b6&style=flat" alt="jessejohn7" /> </p>
 
