@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Jesse John nice to meet you🖐</h1>
 <h3 align="center">About Me 🙂</h3> 
 <hr>
-<p>I'm a front-end developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS JavaScript,React Js .
+<p>I'm a front-end developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS,JavaScript and React Js .
 
 I have a strong understanding of front-end development principles and have gained experience building responsive and user-friendly web pages. I love using React to create dynamic user interfaces and manage state, and I have a talent for combining HTML CSS  JavaScript and React  to create visually appealing layouts.
 
