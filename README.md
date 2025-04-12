@@ -1,36 +1,82 @@
-<h1 align="center">Hello, I'm Jesse John nice to meet you🖐</h1>
-<h3 align="center">About Me 🙂</h3> 
-<hr>
-<p>I'm a Web 3 front-end developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS,JavaScript and React.
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Billionaire+|+Dev;" />
+</h1>
+<h3 align="left">Web3 Frontend developer | Blockchain Engineer | Frontend Engineer  </h3>
+<br/>
+<div align="left">
 
-I have a strong understanding of front-end development principles and have gained experience building responsive and user-friendly web pages. I love using React to create dynamic user interfaces and manage state, and I have a talent for combining HTML CSS  JavaScript and React  to create visually appealing layouts.
+ 🔭 Currently architecting decentralized applications that bridge Web3 with conventional platforms
+ 
+ 🌱 Specializing in secure, performant, and scalable digital solutions that solve complex problems
+ 
+ 💬 Ask me about **React, Node.js, Solidity,  Web3.js,  or anything [here](mailto:jessejohn260@@gmail.com)**
 
-I've worked on a variety of projects in the past, both small and large-scale. From start to finish, I bring my skills in using version control systems (such as Git and Github) and my focus on writing clean, maintainable and well-documented code to every project.
+ ⚡ Fun fact: I build open-source problem-solving projects and develop web3 Products solutions 
+ 
+ </div>
+ 
+<div align="left"> 
+  <a href="mailto:jessejohn260@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-I'm a lifelong learner and love to stay up to date with the latest industry trends and best practices. Collaboration is key for me, and I enjoy working with others to find creative solutions to technical challenges.
+ <hr/>
+ 
+<h2 align="left">Languages & Tools ⚒️</h2>
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mongodb,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,github,git,vercel,figma,nodejs" /><br>
+</div>
 
-If you're looking for a front-end developer who brings passion, experience, and a love for HTML, CSS, Tailwind CSS Javascript and React to the table, then I'm your guy! Let's work together and build something amazing!</p>
+<br/>
+<hr/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jessejohn7&label=Profile%20views&color=0e75b6&style=flat" alt="jessejohn7" /> </p>
+<h2 align="left">Development Philosophy</h2>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="left">
+  <p>I approach software development as both art and science—crafting elegant solutions that balance technical excellence with user friendly user experience and eye catching User interface.</p>
+  
+  <ul>
+    <li><strong>Security:</strong> Building systems that solve day to day problems</li>
+    <li><strong>Performance:</strong> Optimizing for speed and efficiency at every layer</li>
+    <li><strong>Scalability:</strong> Designing architecture that grows seamlessly with demand</li>
+  </ul>
+</div>
 
-- 💬 Ask me about **Web development**
+<br/>
+<hr/>
 
-- 📫 How to reach me **jessejohn260@gmail.com**
+<h2 align="left">Open Source Contributions</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/jessejohn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesse john" height="30" width="40" /></a>
-<a href="https://fb.com/jesse john" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jesse john" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jessejohn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jessejohn" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <p>Active contributor to the open source ecosystem, with particular focus on:</p>
+  
+  <ul>
+    <li>Problem-solving Web appplications</li>
+    <li>Web3 Products</li>
+    <li>AI-powered web application </li>
+  </ul>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+<br/>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessejohn7&show_icons=true&locale=en&layout=compact" alt="jessejohn7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jessejohn7&show_icons=true&locale=en" alt="jessejohn7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessejohn7&" alt="jessejohn7" /></p>
+<div align="left">
+  <h2>Support My Work</h2>
+  <a href="https://buymeacoffee.com/Billionaire Dev" target="_blank" style="text-decoration: none;">
+    <img 
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+      alt="Buy Me a Coffee" 
+      style="height: 60px; width: 217px;" />
+  </a>
+</div>
