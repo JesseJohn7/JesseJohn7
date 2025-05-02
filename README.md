@@ -62,7 +62,7 @@
   <ul>
     <li>Problem-solving Web appplications</li>
     <li>Web3 Products</li>
-    <li>AI-powered web application </li>
+    
   </ul>
 </div>
 
