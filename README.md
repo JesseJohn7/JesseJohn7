@@ -1,15 +1,15 @@
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Billionaire+|+Dev;" />
 </h1>
-<h3 align="left">Web3 Frontend developer | Blockchain Dev |   </h3>
+<h3 align="left">Web3 Frontend developer  </h3>
 <br/>
 <div align="left">
 
- 🔭 Currently architecting decentralized applications that bridge Web3 with conventional platforms
+ 🔭 Currently building decentralized web applications that bridge Web3 with conventional platforms
  
  🌱 Specializing in secure, performant, and scalable digital solutions that solve complex problems
  
- 💬 Ask me about **React, Node.js, Solidity,  Web3.js,  or anything [here](mailto:jessejohn260@@gmail.com)**
+ 💬 Ask me about **React, Javascript , Solana  or anything [here](mailto:jessejohn260@@gmail.com)**
 
  ⚡ Fun fact: I build open-source problem-solving projects and develop web3 Products solutions 
  
@@ -32,8 +32,8 @@
 <h2 align="left">Languages & Tools ⚒️</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mongodb,solidity" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,github,git,vercel,figma,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,github,git,vercel,figma," /><br>
 </div>
 
 <br/>
