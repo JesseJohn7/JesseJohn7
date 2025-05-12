@@ -32,7 +32,7 @@
 <h2 align="left">Languages & Tools ⚒️</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,react,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,github,git,vercel,figma" /><br>
 </div>
 
@@ -42,7 +42,7 @@
 <h2 align="left">Development Philosophy</h2>
 
 <div align="left">
-  <p>I approach software development as both art and science—crafting elegant solutions that balance technical excellence with user friendly user experience and eye catching User interface.</p>
+  <p>I approach software development as both art and science crafting elegant solutions that balance technical excellence with user friendly user experience and eye catching User interface.</p>
   
   <ul>
     <li><strong>Security:</strong> Building systems that solve day to day problems</li>
