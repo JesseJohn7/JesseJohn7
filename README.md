@@ -42,7 +42,7 @@
 <h2 align="left">Development Philosophy</h2>
 
 <div align="left">
-  <p>I approach software development as both art and science crafting elegant solutions that balance technical excellence with user friendly user experience and eye catching User interface.</p>
+  <p>I approach software development as both arts and sciences crafting elegant solutions that balance technical excellence with user friendly user experience and eye catching User interface.</p>
   
   <ul>
     <li><strong>Security:</strong> Building systems that solve day to day problems</li>
