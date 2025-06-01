@@ -45,7 +45,7 @@
   <p>I approach software development as both arts and sciences crafting elegant solutions that balance technical excellence with user friendly user experience and eye catching User interface.</p>
   
   <ul>
-    <li><strong>Security:</strong> Building systems that solve day to day problems</li>
+    <li><strong>Security:</strong> Building systems that solve day to day problems </li>
     <li><strong>Performance:</strong> Optimizing for speed and efficiency at every layer</li>
     <li><strong>Scalability:</strong> Designing architecture that grows seamlessly with demand</li>
   </ul>
