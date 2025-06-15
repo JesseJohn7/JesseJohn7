@@ -33,7 +33,7 @@
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,react" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,github,git,vercel,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,github,git,vercel,figma, web3js" /><br>
 </div>
 
 <br/>
