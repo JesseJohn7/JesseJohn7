@@ -9,7 +9,7 @@
  
  🌱 Specializing in secure, performant, and scalable digital solutions that solve complex problems
  
- 💬 Ask me about **React, Javascript , Solana, Web3Js or anything [here](mailto:jessejohn260@@gmail.com)**
+ 💬 Ask me about **React, Javascript , Solana, Web3Js or Web3 dev [here](mailto:jessejohn260@@gmail.com)**
 
  ⚡ Fun fact: I build open-source problem-solving projects and develop web3 Products solutions 
  
