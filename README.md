@@ -1,7 +1,7 @@
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Billionaire+|+Dev;" />
 </h1>
-<h3 align="left">Web3 Frontend developer  </h3>
+<h3 align="left">Software Developer </h3>
 <br/>
 <div align="left">
 
