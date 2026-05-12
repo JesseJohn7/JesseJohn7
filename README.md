@@ -84,23 +84,7 @@
 
 ---
 
-# 🌍 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/JesseJohn7">
-    <img src="https://img.shields.io/badge/GitHub-JesseJohn7-181717?style=for-the-badge&logo=github" />
-  </a>
-  
-  <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
-
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
 
 
 
