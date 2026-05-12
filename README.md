@@ -29,13 +29,21 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesseJohn7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180em"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JesseJohn7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" 
+    height="180em"
+  />
   
-  <img src="https://streak-stats.demolab.com?user=JesseJohn7&theme=tokyonight&hide_border=true&border_radius=15" height="180em"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=JesseJohn7&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" 
+    height="180em"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseJohn7&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseJohn7&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" 
+  />
 </p>
 
 ---
@@ -43,7 +51,10 @@
 # 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JesseJohn7&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JesseJohn7&theme=tokyo-night&hide_border=true" 
+    width="100%"
+  />
 </p>
 
 ---
@@ -79,7 +90,9 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JesseJohn7&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=JesseJohn7&theme=tokyonight&no-frame=true&row=1&column=6" 
+  />
 </p>
 
 ---
@@ -113,7 +126,9 @@
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JesseJohn7&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=JesseJohn7&label=Profile%20Views&color=0e75b6&style=flat" 
+  />
 </p>
 
 ---
@@ -123,5 +138,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00BFFF,50:6A5ACD,100:8A2BE2&height=120&section=footer"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00BFFF,50:6A5ACD,100:8A2BE2&height=120&section=footer"
+  />
 </p>
