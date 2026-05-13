@@ -1,7 +1,5 @@
 
 
-# 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JesseJohn7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180em"/>
   
@@ -41,6 +39,4 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00BFFF,50:6A5ACD,100:8A2BE2&height=120&section=footer"/>
-</p>
+
